@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61018fb4-39be-4242-80ac-53a0a6cb23cb" name="Default Changelist" comment="" />
+    <list default="true" id="61018fb4-39be-4242-80ac-53a0a6cb23cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="062e20d9-de9d-45dc-9b14-626c8319731e" />
+  </component>
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="fd583751-3a15-4cd8-8311-cffb45df72c7" name="test" />
@@ -17,6 +25,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1i3AZ4YKrIiXBQvwsUnn5hK1QOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,9 +35,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php7/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.Unnamed">
@@ -64,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601125955457</updated>
       <workItem from="1601125958642" duration="694000" />
-      <workItem from="1601126688126" duration="3650000" />
+      <workItem from="1601126688126" duration="4995000" />
     </task>
     <servers />
   </component>
@@ -92,10 +101,18 @@
       <screen x="64" y="0" width="1856" height="1080" />
     </state>
     <state x="446" y="195" width="1092" height="851" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601128881800" />
-    <state x="772" y="339" key="FileChooserDialogImpl" timestamp="1601127283767">
+    <state x="772" y="339" key="FileChooserDialogImpl" timestamp="1601131367340">
       <screen x="64" y="0" width="1856" height="1080" />
     </state>
-    <state x="772" y="339" key="FileChooserDialogImpl/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601127283767" />
+    <state x="772" y="339" key="FileChooserDialogImpl/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601131367340" />
+    <state x="870" y="437" key="Github.ShareDialog" timestamp="1601131682921">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="870" y="437" key="Github.ShareDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601131682921" />
+    <state x="703" y="244" key="Github.UntrackedFilesDialog" timestamp="1601130759399">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="703" y="244" key="Github.UntrackedFilesDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601130759399" />
     <state width="1813" height="295" key="GridCell.Tab.0.bottom" timestamp="1601130275746">
       <screen x="64" y="0" width="1856" height="1080" />
     </state>
@@ -116,9 +133,17 @@
       <screen x="64" y="0" width="1856" height="1080" />
     </state>
     <state x="826" y="463" key="NewPhpFileDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601129522183" />
-    <state x="440" y="197" key="SettingsEditor" timestamp="1601129451153">
+    <state x="440" y="197" key="SettingsEditor" timestamp="1601131317275">
       <screen x="64" y="0" width="1856" height="1080" />
     </state>
-    <state x="440" y="197" key="SettingsEditor/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601129451153" />
+    <state x="440" y="197" key="SettingsEditor/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601131317275" />
+    <state x="584" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601131419519">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="584" y="273" key="Vcs.Push.Dialog.v2/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601131419519" />
+    <state x="777" y="429" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601131670279">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="777" y="429" key="git4idea.remote.GitConfigureRemotesDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601131670279" />
   </component>
 </project>
