@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61018fb4-39be-4242-80ac-53a0a6cb23cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="fd583751-3a15-4cd8-8311-cffb45df72c7" name="test" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1i3AZ4YKrIiXBQvwsUnn5hK1QOp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php7/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.Unnamed">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" server_name="test">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" server_name="test">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item itemvalue="PHP Web Page.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61018fb4-39be-4242-80ac-53a0a6cb23cb" name="Default Changelist" comment="" />
+      <created>1601125955457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601125955457</updated>
+      <workItem from="1601125958642" duration="694000" />
+      <workItem from="1601126688126" duration="3650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="239" key="#CLI_Interpreters" timestamp="1601127288796">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="572" y="239" key="#CLI_Interpreters/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601127288796" />
+    <state x="693" y="226" key="#PHP" timestamp="1601127290216">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="693" y="226" key="#PHP/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601127290216" />
+    <state x="361" y="381" key="#SQL_Dialects" timestamp="1601129719297">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="361" y="381" key="#SQL_Dialects/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601129719297" />
+    <state x="572" y="207" key="#Servers" timestamp="1601128777141">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="572" y="207" key="#Servers/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601128777141" />
+    <state x="446" y="195" width="1092" height="851" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601128881800">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="446" y="195" width="1092" height="851" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601128881800" />
+    <state x="772" y="339" key="FileChooserDialogImpl" timestamp="1601127283767">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="772" y="339" key="FileChooserDialogImpl/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601127283767" />
+    <state width="1813" height="295" key="GridCell.Tab.0.bottom" timestamp="1601130275746">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="295" key="GridCell.Tab.0.bottom/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601130275746" />
+    <state width="1813" height="295" key="GridCell.Tab.0.center" timestamp="1601130275745">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="295" key="GridCell.Tab.0.center/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601130275745" />
+    <state width="1813" height="295" key="GridCell.Tab.0.left" timestamp="1601130275745">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="295" key="GridCell.Tab.0.left/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601130275745" />
+    <state width="1813" height="295" key="GridCell.Tab.0.right" timestamp="1601130275745">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="295" key="GridCell.Tab.0.right/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601130275745" />
+    <state x="826" y="463" key="NewPhpFileDialog" timestamp="1601129522183">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="826" y="463" key="NewPhpFileDialog/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601129522183" />
+    <state x="440" y="197" key="SettingsEditor" timestamp="1601129451153">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="440" y="197" key="SettingsEditor/64.0.1856.1080/-1920.-81.1920.1040@64.0.1856.1080" timestamp="1601129451153" />
+  </component>
+</project>
